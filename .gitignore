@@ -1,0 +1,4 @@
+auth.env
+docker-compose.yml
+Dockerfile
+.ipynb_checkpoints

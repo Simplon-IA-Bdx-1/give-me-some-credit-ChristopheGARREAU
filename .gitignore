@@ -1,4 +1,4 @@
 auth.env
-docker-compose.yml
-Dockerfile
 .ipynb_checkpoints
+*.csv
+/git des autres

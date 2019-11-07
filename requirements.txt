@@ -1,3 +1,7 @@
 bigml
 kaggle
 matplotlib
+rise
+jupyterthemes
+jupyter_contrib_nbextensions
+papermill

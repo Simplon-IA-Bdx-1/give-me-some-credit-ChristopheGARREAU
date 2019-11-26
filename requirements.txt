@@ -5,3 +5,4 @@ rise
 jupyterthemes
 jupyter_contrib_nbextensions
 papermill
+ipynb
